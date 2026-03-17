@@ -15,11 +15,10 @@ README.md
 README_CN.md
 LICENSE
 
-# Runtime data folders (should be mounted as volumes)
+# Runtime data folders
 auths/*
 logs/*
 conv/*
-config.yaml
 
 # Development/editor
 bin/*
